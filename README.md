@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Andy!
+
+I do internet construction (and sometimes demolition) at [Kenna Security](https://www.kennasecurity.com) as a member of our Operations Engineering team.
 
 <!--
 **andygeorge/andygeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
